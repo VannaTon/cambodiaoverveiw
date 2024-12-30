@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+*{
+    
+    img:hover{
+        transform: scale(1.2);
+        transition: all .3s ease-in-out;
+        
+    }
+}
+.content>.images>.image-container{
+    overflow: hidden;
+}
+.place-container>.place{
+    overflow: hidden;
+}
